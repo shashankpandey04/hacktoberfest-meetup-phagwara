@@ -59,9 +59,9 @@ Add the following information to your JSON file:
 
 ```json
 {
-  "fullName": "Your Full Name",
-  "githubUsername": "YOUR-GITHUB-USERNAME",
-  "pfpUrl": "https://github.com/YOUR-GITHUB-USERNAME.png"
+  "fullName": "Divyanshu",
+  "githubUsername": "AudaciousDivyanshuj",
+  "pfpUrl": "https://github.com/YOUR-GITHUB-USERNAME.png](https://github.com/AudaciousDivyanshu"
 }
 ```
 
