@@ -153,3 +153,9 @@ Your contribution may be small, but it is part of something bigger: a community 
 Thank you for being part of Hacktoberfest Meetup Phagwara!
 
 **Keep building. Keep learning. Keep contributing.** 🚀
+
+---
+
+## 👤 Contributor
+
+[Umank Tiwari](https://github.com/umanktiwari00-cmd)
